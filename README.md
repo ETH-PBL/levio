@@ -1,14 +1,14 @@
 # LEVIO: Lightweight Embedded Visual Inertial Odometry for Resource-Constrained Devices
 
-> **Status:** Code will be released together with the paper submission  
+> **Status:** Code will be released by **end of February**  
 > **Paper:** *LEVIO: Lightweight Embedded Visual Inertial Odometry for Resource-Constrained Devices*  
-> (Under review at IEEE Sensors Journal)
+> (Accepted at IEEE Sensors Journal)
 
 ---
 
 ## 📄 Overview
 
-This repository will contain the official implementation of **LEVIO**, a lightweight embedded Visual-Inertial Odometry (VIO) system designed for **resource-constrained devices** such as microcontrollers, and ultra low-power Systems on Chip (SoCs).
+This repository will contain the official implementation of **LEVIO**, a lightweight embedded Visual-Inertial Odometry (VIO) system designed for **resource-constrained devices** such as microcontrollers and ultra low-power Systems on Chip (SoCs).
 
 The release will include:
 - **An optimized implementation for the GAP9 SoC** by [GreenWaves Technologies](https://github.com/GreenWaves-Technologies)
@@ -25,4 +25,4 @@ Our approach targets applications where traditional VIO solutions are too heavy 
 
 ## 📅 Availability
 
-The complete source code and documentation will be made publicly available **together with the paper submission**.
+The complete source code and documentation will be made publicly available **by the end of February**.
