@@ -1,6 +1,6 @@
 # LEVIO: Lightweight Embedded Visual Inertial Odometry for Resource-Constrained Devices
 
-> **Status:** Code will be released by **end of February**  
+> **Status:** Code will be released by **early March**  
 > **Paper:** *LEVIO: Lightweight Embedded Visual Inertial Odometry for Resource-Constrained Devices*  
 > (Accepted at IEEE Sensors Journal)
 
@@ -25,4 +25,4 @@ Our approach targets applications where traditional VIO solutions are too heavy 
 
 ## 📅 Availability
 
-The complete source code and documentation will be made publicly available **by the end of February**.
+The complete source code and documentation will be made publicly available in **early March**.
