@@ -1,0 +1,1 @@
+source "$(GAP_SDK_HOME)/utils/kconfig/Kconfig"

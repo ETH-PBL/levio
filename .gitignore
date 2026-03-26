@@ -1,0 +1,28 @@
+# Python
+__pycache__
+.venv/
+*.egg-info/
+dist/
+.env
+
+# Data & output
+data/
+sensor_data/
+*.npy
+*.png
+log/
+*.log
+
+# Build
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

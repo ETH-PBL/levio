@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Kühne
+    given-names: Jonas
+    affiliation: "ETH Zurich, Center for Project-Based Learning"
+  - family-names: Vogt
+    given-names: Christian
+    affiliation: "ETH Zurich, Center for Project-Based Learning"
+  - family-names: Magno
+    given-names: Michele
+    affiliation: "ETH Zurich, Center for Project-Based Learning"
+  - family-names: Benini
+    given-names: Luca
+    affiliation: "ETH Zurich / University of Bologna"
+title: "LEVIO: Lightweight Embedded Visual Inertial Odometry"
+version: 1.0.0
+date-released: 2026-02-01
+license: MIT
+doi: 10.1109/JSEN.2025.3644788
+url: "https://github.com/ETH-PBL/levio"
